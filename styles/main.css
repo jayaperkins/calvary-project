@@ -6,8 +6,9 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    letter-spacing: .25rem;
+    letter-spacing: .1rem;
     text-shadow: 1px 1px .5rem #000000;
+    color: white;
 }
 
 
@@ -186,7 +187,7 @@ html, body, .header, .index-container {
 .soundcloud-icon {
     display: flex;
     width: 3rem;
-    height: auto;
+    height: 3rem;
     margin-right: 1rem;
 }
 
@@ -195,21 +196,44 @@ html, body, .header, .index-container {
     justify-content: flex-end;
     align-items: center;
     width: 50%;
+}
+
+.video-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: fixed;
     height: 3rem;
+    top: 0;
+    z-index: 100;
+    background-color: #ffffff;
+}
+
+.video-group {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
 }
 
 .video-container {
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    display: flex;
     width: 100%;
 }
+
+.video-title {
+    color: black;
+    text-shadow: none;
+    margin: 1rem 0 1rem 0;
+}
+
 
 video {
     width: 75%;
 }
-
-.top {
-    margin-top: 1rem;
-}
-
