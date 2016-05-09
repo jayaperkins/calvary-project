@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/01_name.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/04_mighty-to-save.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/05_everlasting-god.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/06_hosanna.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/07_be-my-everything.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/08_blessed-be-your-name.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/09_you-are.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/10_god-of-wonders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 19.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vol-two-video-pages/02_forever.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vol-two-video-pages/03_holy-is-the-lord.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 15.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 18.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 19.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-600.css" afterPath="$PROJECT_DIR$/styles/mq-600.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-900.css" afterPath="$PROJECT_DIR$/styles/mq-900.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-index.html" afterPath="$PROJECT_DIR$/vol-two-index.html" />
     </list>
     <ignored path="worship-videos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -335,18 +321,18 @@
       <workItem from="1462487986780" duration="11000" />
       <workItem from="1462651684987" duration="2142000" />
       <workItem from="1462743748037" duration="91000" />
-      <workItem from="1462829131636" duration="635000" />
+      <workItem from="1462829131636" duration="747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21628000" />
+    <option name="totallyTimeSpent" value="21740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
