@@ -2,26 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 11.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 12.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 13.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 14.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 15.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 15.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 16.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 16.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 17.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 17.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 18.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 18.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 19.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 19.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/01_name.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/04_mighty-to-save.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/05_everlasting-god.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/06_hosanna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/07_be-my-everything.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/08_blessed-be-your-name.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/09_you-are.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/10_god-of-wonders.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 15.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 18.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy 19.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vol-two-video-pages/02_forever.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vol-two-video-pages/03_holy-is-the-lord.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vol-two-video-pages/you-never-let-go copy.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-600.css" afterPath="$PROJECT_DIR$/styles/mq-600.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-900.css" afterPath="$PROJECT_DIR$/styles/mq-900.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-index.html" afterPath="$PROJECT_DIR$/vol-two-index.html" />
     </list>
     <ignored path="worship-videos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,101 +47,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="you-never-let-go copy 11.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 11.html">
+      <file leaf-file-name="vol-two-index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vol-two-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+            <state relative-caret-position="498">
+              <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="you-never-let-go copy 12.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 12.html">
+      <file leaf-file-name="vol-one-index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vol-one-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+            <state relative-caret-position="1080">
+              <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="you-never-let-go copy 13.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 13.html">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+            <state relative-caret-position="255">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="you-never-let-go copy 14.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 14.html">
+      <file leaf-file-name="mq-600.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/mq-600.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+            <state relative-caret-position="15">
+              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="you-never-let-go copy 15.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 15.html">
+      <file leaf-file-name="mq-900.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/mq-900.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="you-never-let-go copy 16.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 16.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="you-never-let-go copy 17.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 17.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="you-never-let-go copy 18.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 18.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="you-never-let-go copy 19.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 19.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="you-never-let-go copy.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -165,10 +120,6 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/articles.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/vol-two-index.html" />
-        <option value="$PROJECT_DIR$/styles/mq-600.css" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
-        <option value="$PROJECT_DIR$/styles/mq-900.css" />
         <option value="$PROJECT_DIR$/you-never-let-go.html" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go.html" />
         <option value="$PROJECT_DIR$/vol-one-index.html" />
@@ -192,6 +143,20 @@
         <option value="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 18.html" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 19.html" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" />
+        <option value="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" />
+        <option value="$PROJECT_DIR$/vol-two-index.html" />
+        <option value="$PROJECT_DIR$/styles/main.css" />
+        <option value="$PROJECT_DIR$/styles/mq-600.css" />
+        <option value="$PROJECT_DIR$/styles/mq-900.css" />
       </list>
     </option>
   </component>
@@ -258,28 +223,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vol-one-video-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="worship-videos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="worship-videos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,22 +335,23 @@
       <workItem from="1462487986780" duration="11000" />
       <workItem from="1462651684987" duration="2142000" />
       <workItem from="1462743748037" duration="91000" />
+      <workItem from="1462829131636" duration="635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20993000" />
+    <option name="totallyTimeSpent" value="21628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -428,153 +380,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vol-one-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="90" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="217" column="20" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/mq-900.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go.html" />
-    <entry file="file://$PROJECT_DIR$/vol-one-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-two-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/02_forever.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/09_you-are.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 11.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -649,8 +454,315 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="90" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go.html" />
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/02_forever.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/09_you-are.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy 11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/03_hungry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/mq-600.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/mq-900.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
           <folding />
         </state>
       </provider>
