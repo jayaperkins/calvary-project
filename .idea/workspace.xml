@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-index.html" afterPath="$PROJECT_DIR$/vol-one-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-index.html" afterPath="$PROJECT_DIR$/vol-two-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" />
     </list>
     <ignored path="worship-videos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,6 +176,8 @@
         <option value="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" />
         <option value="$PROJECT_DIR$/styles/mq-900.css" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -357,7 +381,7 @@
       <workItem from="1463616637676" duration="16000" />
       <workItem from="1463616734348" duration="665000" />
       <workItem from="1463617850657" duration="132000" />
-      <workItem from="1464732389069" duration="221000" />
+      <workItem from="1464732389069" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="updated videos image">
       <created>1463002621832</created>
@@ -370,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25867000" />
+    <option name="totallyTimeSpent" value="25966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -440,7 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -568,10 +592,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
