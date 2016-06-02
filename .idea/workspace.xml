@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/church-background-mobile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/church-background-tablet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/church-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/flaming-guitar.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/squirrel.jpeg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.html" afterPath="$PROJECT_DIR$/articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-index.html" afterPath="$PROJECT_DIR$/vol-one-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-index.html" afterPath="$PROJECT_DIR$/vol-two-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" />
     </list>
     <ignored path="worship-videos.iws" />
@@ -27,18 +48,7 @@
     <favorites_list name="worship-videos" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="10_nothing-but-the-blood.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,11 +84,8 @@
         <option value="$PROJECT_DIR$/vol-one-video-pages/you-never-let-go copy.html" />
         <option value="$PROJECT_DIR$/vol-two-index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/styles/mq-600.css" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
-        <option value="$PROJECT_DIR$/articles.html" />
         <option value="$PROJECT_DIR$/styles/mq-900.css" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" />
@@ -100,6 +107,9 @@
         <option value="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" />
         <option value="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" />
         <option value="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" />
+        <option value="$PROJECT_DIR$/styles/main.css" />
+        <option value="$PROJECT_DIR$/articles.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -154,6 +164,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="worship-videos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worship-videos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worship-videos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vol-one-video-pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,7 +331,7 @@
       <workItem from="1464808483679" duration="21000" />
       <workItem from="1464808555023" duration="23000" />
       <workItem from="1464826949608" duration="9000" />
-      <workItem from="1464901860398" duration="1401000" />
+      <workItem from="1464901860398" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="updated videos image">
       <created>1463002621832</created>
@@ -320,7 +344,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29439000" />
+    <option name="totallyTimeSpent" value="29943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -390,7 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="90" />
@@ -410,6 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +454,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="90" />
@@ -449,6 +474,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -468,7 +494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="90" />
@@ -491,7 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -549,20 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/mq-900.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -575,37 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="399" column="24" selection-start-line="399" selection-start-column="24" selection-end-line="399" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -690,14 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -770,10 +743,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="42" column="13" selection-start-line="14" selection-start-column="4" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="13" selection-start-line="11" selection-start-column="4" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding />
         </state>
       </provider>
