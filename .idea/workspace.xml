@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/black-logo-transparent.png" afterPath="$PROJECT_DIR$/img/logos/black-logo-transparent.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/calvaryhanford-white-logo.png" afterPath="$PROJECT_DIR$/img/logos/calvaryhanford-white-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/ch-logo-transparent.png" afterPath="$PROJECT_DIR$/img/logos/ch-logo-transparent.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/guitar-mobile.jpg" afterPath="$PROJECT_DIR$/img/background-images/guitar-mobile.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/guitar-tablet.jpg" afterPath="$PROJECT_DIR$/img/background-images/guitar-tablet.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/guitar.jpg" afterPath="$PROJECT_DIR$/img/background-images/guitar.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo-small.png" afterPath="$PROJECT_DIR$/img/logos/logo-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.html" afterPath="$PROJECT_DIR$/articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-600.css" afterPath="$PROJECT_DIR$/styles/mq-600.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-900.css" afterPath="$PROJECT_DIR$/styles/mq-900.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-index.html" afterPath="$PROJECT_DIR$/vol-one-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/04_mighty-to-save.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/05_everlasting-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/06_hosanna.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/07_be-my-everything.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/08_blessed-be-your-name.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/09_you-are.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" afterPath="$PROJECT_DIR$/vol-one-video-pages/10_god-of-wonders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-index.html" afterPath="$PROJECT_DIR$/vol-two-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/01_how-great-is-our-god.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/02_in-christ-alone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/03_hungry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/04_from-the-inside-out.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/05_happy-day.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/06_faithful-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/07_beautiful-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" afterPath="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" />
     </list>
     <ignored path="worship-videos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,18 +56,7 @@
     <favorites_list name="worship-videos" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,7 +94,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/styles/mq-600.css" />
-        <option value="$PROJECT_DIR$/styles/mq-900.css" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/01_you-never-let-go.html" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/02_forever.html" />
         <option value="$PROJECT_DIR$/vol-one-video-pages/03_holy-is-the-lord.html" />
@@ -93,9 +114,10 @@
         <option value="$PROJECT_DIR$/vol-two-video-pages/08_indescribable.html" />
         <option value="$PROJECT_DIR$/vol-two-video-pages/09_famous-one.html" />
         <option value="$PROJECT_DIR$/vol-two-video-pages/10_nothing-but-the-blood.html" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/articles.html" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/styles/main.css" />
+        <option value="$PROJECT_DIR$/styles/mq-900.css" />
       </list>
     </option>
   </component>
@@ -135,8 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,6 +177,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worship-videos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worship-videos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -170,10 +206,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/background-images" />
+      <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/vol-one-video-pages" />
       <recent name="$PROJECT_DIR$/styles" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -277,7 +314,8 @@
       <workItem from="1464826949608" duration="9000" />
       <workItem from="1464901860398" duration="1905000" />
       <workItem from="1464903820678" duration="83000" />
-      <workItem from="1464907911642" duration="17000" />
+      <workItem from="1464907911642" duration="185000" />
+      <workItem from="1464977466066" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="updated videos image">
       <created>1463002621832</created>
@@ -290,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30043000" />
+    <option name="totallyTimeSpent" value="30357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -510,20 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/mq-900.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/mq-600.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vol-two-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -657,13 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json" />
     <entry file="file://$PROJECT_DIR$/vol-one-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -685,20 +703,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/articles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -710,6 +715,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7290">
+          <caret line="486" column="1" selection-start-line="486" selection-start-column="1" selection-end-line="486" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/mq-900.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/mq-600.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
