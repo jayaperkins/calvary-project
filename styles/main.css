@@ -38,6 +38,7 @@ html, body, .header, .index-container {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-color: white;
 }
 
 .logo {
