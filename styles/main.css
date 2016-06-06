@@ -10,12 +10,12 @@
 }
 
 
-html, body, #header, .index-container {
+html, body, .header {
     height: 100%;
 }
 
 
-#header {
+.header {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
