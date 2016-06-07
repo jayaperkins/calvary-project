@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-index.html" afterPath="$PROJECT_DIR$/vol-one-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-two-index.html" afterPath="$PROJECT_DIR$/vol-two-index.html" />
     </list>
     <ignored path="worship-videos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,12 +23,12 @@
     <favorites_list name="worship-videos" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="vol-one-index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="vol-one-index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vol-one-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,18 +37,18 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="465">
               <caret line="31" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vol-two-index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vol-two-index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vol-two-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -140,11 +141,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/vol-two-index.html" />
         <option value="$PROJECT_DIR$/styles/mq-900.css" />
         <option value="$PROJECT_DIR$/styles/mq-600.css" />
         <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/vol-one-index.html" />
+        <option value="$PROJECT_DIR$/vol-two-index.html" />
       </list>
     </option>
   </component>
@@ -348,6 +349,7 @@
       <workItem from="1465256478823" duration="84000" />
       <workItem from="1465276107873" duration="1000" />
       <workItem from="1465276549943" duration="1188000" />
+      <workItem from="1465312379854" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="updated videos image">
       <created>1463002621832</created>
@@ -374,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32892000" />
+    <option name="totallyTimeSpent" value="32902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -739,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,22 +770,14 @@
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vol-two-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="465">
           <caret line="31" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="7" />
           <folding />
         </state>
@@ -793,8 +785,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vol-one-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vol-two-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
