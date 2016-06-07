@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156ecaa1-507c-4ea6-be05-bb6ff2dfd694" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-600.css" afterPath="$PROJECT_DIR$/styles/mq-600.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mq-900.css" afterPath="$PROJECT_DIR$/styles/mq-900.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vol-one-index.html" afterPath="$PROJECT_DIR$/vol-one-index.html" />
     </list>
     <ignored path="worship-videos.iws" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="vol-one-index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vol-one-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+            <state relative-caret-position="75">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -350,7 +347,7 @@
       <workItem from="1465254460504" duration="1173000" />
       <workItem from="1465256478823" duration="84000" />
       <workItem from="1465276107873" duration="1000" />
-      <workItem from="1465276549943" duration="1082000" />
+      <workItem from="1465276549943" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="updated videos image">
       <created>1463002621832</created>
@@ -377,7 +374,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32786000" />
+    <option name="totallyTimeSpent" value="32892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -796,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vol-one-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>
