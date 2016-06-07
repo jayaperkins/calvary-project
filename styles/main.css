@@ -37,9 +37,8 @@ html, body, .header {
     -ms-flex-align: center;
     align-items: center;
     background-image: url(../img/background-images/guitar-mobile.jpg);
-    background-size: cover;
+    background-size: contain;
     background-position: center;
-    background-attachment: fixed;
 }
 
 .logo {

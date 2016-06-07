@@ -1,5 +1,6 @@
 .header {
     background-image: url(../img/background-images/guitar.jpg);
+    background-attachment: fixed;
 }
 
 .title {
