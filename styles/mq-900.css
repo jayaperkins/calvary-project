@@ -1,3 +1,7 @@
+.header {
+    background-image: url(../img/background-images/guitar.jpg);
+}
+
 .title {
     font-size: 5rem;
 }
