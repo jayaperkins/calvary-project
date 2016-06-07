@@ -38,7 +38,6 @@ html, body, .header {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background-color: white;
 }
 
 .logo {
@@ -219,7 +218,6 @@ html, body, .header {
     background-color: #52BAD5;
     margin: 0.5rem;
     box-shadow: 0 2px 46px -6px rgba(0,0,0,0.75);
-
 }
 
 .banner {
