@@ -36,8 +36,8 @@ html, body, .header {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url(../img/background-images/guitar-mobile.jpg);
-    background-size: contain;
+    background-image: url(../img/background-images/guitar-tablet.jpg);
+    background-size: cover;
     background-position: center;
 }
 
